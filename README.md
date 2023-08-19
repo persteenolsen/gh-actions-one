@@ -1,4 +1,4 @@
-# Custom Site Generator with GitHub Actions - GitHub Pages one
+# DevOps by NPM module gh-pages towards GitHub Pages 
 
 ## Installing
 
