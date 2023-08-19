@@ -6,8 +6,8 @@
 npm install
 ```
 
-## Running
+## Run / build / creates branch gh-pages at GitHub / deploys files to GitHub + GH Pages
 
 ```javascript
-npm run build
+npm run deploy
 ```
